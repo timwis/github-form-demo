@@ -1,0 +1,22 @@
+{
+  "name": "github-form-demo",
+  "version": "1.0.0",
+  "description": "Demonstrate creation of data file on github through an HTML form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timwis/github-form-demo.git"
+  },
+  "author": "timwis <tim@timwis.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timwis/github-form-demo/issues"
+  },
+  "homepage": "https://github.com/timwis/github-form-demo#readme",
+  "dependencies": {
+    "github-api": "^0.11.2"
+  }
+}
