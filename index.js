@@ -1,7 +1,7 @@
 /* global $, Cookies, Github */
 var config = {
-  GITHUB_CLIENT: 'f8b5db18eb2794a70bc5',
-  GATEKEEPER_HOST: 'http://localhost:9999'
+  GITHUB_CLIENT: '777ae16009a6f9e6d451',
+  GATEKEEPER_HOST: 'http://jkan-gatekeeper.herokuapp.com'
 }
 var currentURL = window.location.href
 var oauthToken = Cookies.get('oauth-token')
